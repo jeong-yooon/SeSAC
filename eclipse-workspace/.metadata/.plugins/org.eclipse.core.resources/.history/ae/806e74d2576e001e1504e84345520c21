@@ -1,0 +1,15 @@
+package oop9;
+
+public class TVTest {
+	public static void main(String[] args) {
+		TV tv = new HyundaiTV();
+//		TV tv = new SamsungTV();
+		tv.powerOn();
+		tv.powerOff();
+		tv.ChannelUp();
+		tv.ChannelDown();
+		tv.soundUp();
+		tv.soundDown();
+	}
+}
+// samsungTV에 OrangeSpeaker 연결

@@ -1,6 +1,13 @@
 package oop9;
 
 public class SamsungTV implements TV{
+//	private Speaker speaker = new OrangeSpeaker();
+	private Speaker speaker;
+	
+	public void setSpeaker(Speaker speaker) {
+		this.speaker = speaker;
+	}
+	
 	public void powerOn(){
 		System.out.println("SamsungTV: 전원을 켭니다.");
 	}
@@ -14,10 +21,18 @@ public class SamsungTV implements TV{
 		System.out.println("SamsungTV: 채널을 내립니다.");
 	}
 	public void soundUp() {
+		if(speaker == null) {
 		System.out.println("SamsungTV: 소리를 키웁니다.");
+		} else {
+			speaker.soundUp();
+		}
 	}
 	public void soundDown() {
-		System.out.println("SamsungTV: 전원을 줄입니다.");
+		if(speaker == null) {
+		System.out.println("SamsungTV: 소리를 줄입니다.");
+		} else {
+			speaker.soundDown();
+		}
 	}
 
 }

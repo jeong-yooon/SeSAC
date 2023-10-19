@@ -8,4 +8,8 @@ public interface TV {
 	public abstract void ChannelDown();
 	public abstract void soundUp();
 	public abstract void soundDown();
+	// default를 붙여주면 인터페이스에서도 바디를 붙일 수 있다.
+	public default void setSpeaker(Speaker orangeSpeaker) {
+		
+	};
 }

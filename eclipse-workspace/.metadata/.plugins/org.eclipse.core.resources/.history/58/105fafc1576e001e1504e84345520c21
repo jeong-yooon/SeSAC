@@ -1,0 +1,15 @@
+package oop9;
+
+public class Speaker {
+
+	public void soundUp() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void soundDown() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
