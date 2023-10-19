@@ -1,0 +1,10 @@
+package oop9;
+
+public interface TV {
+	public abstract void powerOn();
+	public abstract void powerOff();
+	public abstract void ChannelUp();
+	public abstract void ChannelDown();
+	public abstract void soundUp();
+	public abstract void soundDown();
+}

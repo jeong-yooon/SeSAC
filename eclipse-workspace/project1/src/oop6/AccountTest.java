@@ -10,6 +10,11 @@ public class AccountTest {
 		Account a3 = new Account(10000);
 		System.out.println(a3);
 
+		System.out.println(a1.hashCode());
+		System.out.println(a2.hashCode());
+		System.out.println(a3.hashCode());
+		System.out.println(a1.money2);
+		
 	}
 
 }

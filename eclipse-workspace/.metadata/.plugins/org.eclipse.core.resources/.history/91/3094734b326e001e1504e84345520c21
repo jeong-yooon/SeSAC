@@ -1,0 +1,11 @@
+package oop7;
+
+public class Singleton {
+	public static Sigleton s = null;
+	
+	int score;
+	private Singleton() {
+		// 1. 생성자를 private
+		// 2. 자기자신을 참조하는 변수를 static으로 선언
+	}
+}
