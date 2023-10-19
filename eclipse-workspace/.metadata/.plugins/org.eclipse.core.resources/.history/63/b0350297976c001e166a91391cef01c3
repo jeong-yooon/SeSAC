@@ -1,0 +1,15 @@
+package basic;
+
+public class OpTest12 {
+	public static void main(String[] args) {
+		int n = 23;
+		// n이 양수인지 음수인지 판별
+		if (n % 2 == 0) {
+			System.out.println("양수");
+		}
+		else {
+			System.out.println("음수");
+		}
+		
+	}
+}

@@ -1,0 +1,19 @@
+package control;
+
+public class WhileTest3 {
+	public static void main(String[] args) {
+		int a, b, c = 0;
+		while(a <= 9) {
+			while(b <= 9) {
+				while(c <= 3) {
+					System.out.print((i+k)+"*"+j+"="+((i+k)*j)+"\t");
+					c++;
+				}
+				System.out.println("\n");
+				b++;
+			}
+			System.out.println("\n");
+			a += 4;
+		}
+	}
+}

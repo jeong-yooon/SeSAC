@@ -1,0 +1,13 @@
+package OOP1;
+
+public class Point2D {
+	private int x;
+	private int y;
+	
+	public void setX(int x) {
+		this.x = x;
+	}
+	public int getX() {
+		return x;
+	}
+}

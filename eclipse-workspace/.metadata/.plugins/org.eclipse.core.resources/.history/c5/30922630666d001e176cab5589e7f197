@@ -1,0 +1,16 @@
+package method;
+
+public class MethodTest1 {
+	public static void main(String[] args) {
+		print();
+		print();
+		System.out.println("whdfy");
+	}
+	
+	private static void print() {
+		System.out.println("----------");
+		System.out.println("최정윤");
+		System.out.println("----------");
+		return;
+	}
+}

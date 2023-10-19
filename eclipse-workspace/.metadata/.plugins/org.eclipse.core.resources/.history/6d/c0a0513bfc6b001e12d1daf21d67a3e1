@@ -1,0 +1,11 @@
+package basic;
+
+public class Hello {
+	public static void main(String[] sargs) {
+		System.out.println("Hello world");
+		System.out.print("Hello ");
+		System.out.println("SESAC");
+//		System.out.print("Hello--");
+//		System.out.println("Java");
+	}
+}

@@ -1,0 +1,12 @@
+package oop5;
+
+public class Point2D {
+	int x;
+	int y;
+	
+	public Point2D(int x, int y) {
+		x=10;
+		y=20;
+		System.out.println("Point2D() 수행");
+	}
+}

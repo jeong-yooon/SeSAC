@@ -1,0 +1,10 @@
+package oop5;
+
+public class PointTest {
+	public static void main(String[] args) {
+		Point2D pt1 = new Point2D();
+		
+		System.out.println("x = " + pt1.x);
+		System.out.println("y = " + pt1.y);
+	}
+}
