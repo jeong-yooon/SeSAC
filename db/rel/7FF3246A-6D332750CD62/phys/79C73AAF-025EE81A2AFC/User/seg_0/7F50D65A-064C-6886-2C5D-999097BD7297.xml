@@ -1,0 +1,24 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<UserOraclev10g class="oracle.dbtools.crest.model.design.storage.oracle.v10g.UserOraclev10g" name="ACE" directorySegmentName="seg_0" id="7F50D65A-064C-6886-2C5D-999097BD7297">
+<sourceConnName>ace</sourceConnName>
+<sourceObjName>ACE</sourceObjName>
+<createdBy>jeong-yoon</createdBy>
+<createdTime>2023-10-26 05:16:31 UTC</createdTime>
+<ownerDesignName>db</ownerDesignName>
+<schemaObject>43A7EE58-CA66-1780-B59B-B4975D2CDD1F</schemaObject>
+<defTableSpace>A96F5ED9-CCBF-1002-8373-AFCF952CEA6D</defTableSpace>
+<privileges>CREATE TRIGGER, CREATE PROCEDURE, CREATE SEQUENCE, CREATE VIEW, CREATE TABLE, CREATE SESSION</privileges>
+<quotaItems>
+<QuotaItem class="oracle.dbtools.crest.model.design.storage.oracle.v10g.QuotaItemOraclev10g" name="QuotaItem1" id="8443DC20-99FF-DE85-CBB0-380B38B058F5">
+<createdBy>jeong-yoon</createdBy>
+<createdTime>2023-10-26 05:16:32 UTC</createdTime>
+<ownerDesignName>db</ownerDesignName>
+</QuotaItem>
+<QuotaItem class="oracle.dbtools.crest.model.design.storage.oracle.v10g.QuotaItemOraclev10g" name="QuotaItem2" id="7EC69896-C94F-262E-DC0A-850F0EB04937">
+<createdBy>jeong-yoon</createdBy>
+<createdTime>2023-10-26 05:16:55 UTC</createdTime>
+<ownerDesignName>db</ownerDesignName>
+<tableSpace>A96F5ED9-CCBF-1002-8373-AFCF952CEA6D</tableSpace>
+</QuotaItem>
+</quotaItems>
+</UserOraclev10g>

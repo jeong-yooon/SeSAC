@@ -1,0 +1,60 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev12c class="oracle.dbtools.crest.model.design.storage.oracle.v12c.TableProxyOraclev12c" name="JOBS" directorySegmentName="seg_0" id="22EE0A8C-071F-6553-050E-C9AF91AF4C6E">
+<createdBy>jeong-yoon</createdBy>
+<createdTime>2023-10-26 05:16:37 UTC</createdTime>
+<ownerDesignName>db</ownerDesignName>
+<schemaObject>43A7EE58-CA66-1780-B59B-B4975D2CDD1F</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>3C46B288-F64F-B598-AB8F-74781A68635B</segment>
+<tableSpace>A96F5ED9-CCBF-1002-8373-AFCF952CEA6D</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<inMemory>NO</inMemory>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="JOB_ID" id="56391547-557A-1050-E918-7C6FE16FA93C">
+<createdBy>jeong-yoon</createdBy>
+<createdTime>2023-10-26 05:16:38 UTC</createdTime>
+<ownerDesignName>db</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="JOB_TITLE" id="57CAE8E8-6AF6-F2E6-8363-425BDF68B33E">
+<createdBy>jeong-yoon</createdBy>
+<createdTime>2023-10-26 05:16:38 UTC</createdTime>
+<ownerDesignName>db</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="MAX_SALARY" id="6860FF33-537D-8932-0BCD-F5CA8F7F62E3">
+<createdBy>jeong-yoon</createdBy>
+<createdTime>2023-10-26 05:16:38 UTC</createdTime>
+<ownerDesignName>db</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="MIN_SALARY" id="BFEFC94E-43C7-4CE9-38F9-7AFD42AB4730">
+<createdBy>jeong-yoon</createdBy>
+<createdTime>2023-10-26 05:16:38 UTC</createdTime>
+<ownerDesignName>db</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<indexProxies>
+<IndexProxy class="oracle.dbtools.crest.model.design.storage.oracle.v10g.IndexProxyOraclev10g" name="JOB_ID_PK" id="36F16019-131D-81BB-64D6-F418DD73BB9D">
+<createdBy>jeong-yoon</createdBy>
+<createdTime>2023-10-26 05:16:59 UTC</createdTime>
+<ownerDesignName>db</ownerDesignName>
+<schemaObject>43A7EE58-CA66-1780-B59B-B4975D2CDD1F</schemaObject>
+<segment>A5F498E0-10BE-DDEC-25CB-96BB1B6A4A53</segment>
+<tableSpace>A96F5ED9-CCBF-1002-8373-AFCF952CEA6D</tableSpace>
+</IndexProxy>
+</indexProxies>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="JOB_ID_PK" id="12E3A12B-2CFB-5B73-3DA2-45F7FD19F328">
+<createdBy>jeong-yoon</createdBy>
+<createdTime>2023-10-26 05:17:19 UTC</createdTime>
+<ownerDesignName>db</ownerDesignName>
+<segment>A5F498E0-10BE-DDEC-25CB-96BB1B6A4A53</segment>
+<tableSpace>A96F5ED9-CCBF-1002-8373-AFCF952CEA6D</tableSpace>
+<existingIndex>36F16019-131D-81BB-64D6-F418DD73BB9D</existingIndex>
+<indexSegment>A5F498E0-10BE-DDEC-25CB-96BB1B6A4A53</indexSegment>
+<indexSort>SORTED</indexSort>
+<usingIndex>BY INDEX NAME</usingIndex>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev12c>
