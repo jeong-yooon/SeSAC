@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>조건문</title>
+</head>
+<body>
+  <script>
+    var i = 0;
+    var x = Math.random();
+    x = parseInt(x * 50);
+
+    do{
+      i++;
+      console.log(x);
+      var you = prompt("50미만의 숫자를 입력하세요.");
+      if (you > x) {
+        alert("Down!");
+      }
+      else if (you < x) {
+        alert("Up!");
+      }
+      else {
+        alert("축하합니다." + i + "번 만에 맞추셨습니다.")
+        break;
+      }
+    } while (you != x)
+  </script>
+</body>
+</html>

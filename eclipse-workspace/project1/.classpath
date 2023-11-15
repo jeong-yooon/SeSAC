@@ -6,7 +6,9 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="/Users/jeong-yoon/lombok.jar"/>
-	<classpathentry kind="lib" path="/Users/jeong-yoon/mylib.jar"/>
+	<classpathentry kind="lib" path="/Users/jeong-yoon/dev/eclipse-workspace/lombok.jar"/>
+	<classpathentry kind="lib" path="/Users/jeong-yoon/dev/eclipse-workspace/mylib.jar"/>
+	<classpathentry kind="lib" path="/Users/jeong-yoon/dev/eclipse-workspace/ojdbc11.jar"/>
+	<classpathentry kind="lib" path="/Users/jeong-yoon/dev/eclipse-workspace/commons-codec-1.16.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

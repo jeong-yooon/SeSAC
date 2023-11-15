@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+      const now = new Date();
+      const year = now.getFullYear();
+      const month = now.getMonth() + 1;
+      const first_day = new Date(year, month - 1, 1);
+      const first_day_week = first_day.getDay() + 1;
+      const end_day = new Date(year, month, 0).getDate();
+
+      document.write(
+        <table>
+        </table>
+      )
+    </script>
+</body>
+</html>

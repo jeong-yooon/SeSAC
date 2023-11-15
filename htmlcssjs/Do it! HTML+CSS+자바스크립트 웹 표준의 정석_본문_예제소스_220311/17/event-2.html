@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DOM event 객체</title>
+  <style>
+    #container {
+      width:300px;
+      margin:10px auto;
+    }
+  </style>
+</head>
+<body>
+  <div id="container">
+    <img src="images/cup-1.png" id="cup">		
+  </div>
+
+	<script>
+		var cup = document.querySelector("#cup");  // id = cup인 요소를 가져옴
+    cup.onclick = changePic;  // cup을 클릭하면 changePic 함수 실행
+
+    function changePic() {
+      // cup.src = "images/cup-2.png";
+      if (cup.src.includes("cup-1.png")) {
+        cup.src = cup.src.replace("cup-1.png", "cup-2.png");
+      } else {
+        cup.src = cup.src.replace("cup-2.png", "cup-1.png");
+      }
+		}
+	</script>
+</body>
+</html>
