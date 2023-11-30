@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+</head>
+<body>
+  <div id="root"></div>
+  <script>
+    const data = {
+      name: '홍길동',
+    };
+
+    const root = document.getElementById('root'); // 상수, 못바꾸게 함.
+
+    const element = React.getElementById('div', null, 'Hello World!!' + data.name);
+
+    ReactDOM.render(element, root);
+
+  </script>
+
+</body>
+</html>

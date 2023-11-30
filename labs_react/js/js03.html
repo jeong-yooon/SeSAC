@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <script>
+    var name = '가';
+    let name1 = 'A';
+
+    console.log(name, name1);
+    console.log(this.name, this.name1);
+    console.log(window.name, window.name1);
+
+    function test() {
+      var name = '나';
+      console.log(name);
+      console.log(this.name);
+    }
+    
+    test();
+    window.test();
+
+    let obj = {
+      name: '다',
+      test: function() {
+        console.log(name);
+        console.log(this.name);
+        console.log(window.name);
+      }.bind(this)
+    }
+    obj.test();
+  </script>
+</body>
+</html>

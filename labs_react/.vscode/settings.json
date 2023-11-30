@@ -1,0 +1,20 @@
+{
+  "terminal.integrated.env.osx": {
+    // "NODEJS_HOME": "D:\\labs_lect\\labs_js\\nodejs\\",
+    "NODE_PATH": "Users\\jeong-yoon\\node_modules\\",
+    "PATH": "D:\\labs_lect\\labs_js\\nodejs;${env:PATH};"
+  },
+  "code-runner.runInTerminal": true,
+  "liveServer.settings.host": "localhost",
+  "liveServer.settings.port": 80,
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.printWidth": 120,
+  "prettier.useTabs": false,
+  "prettier.tabWidth": 2,
+  "prettier.trailingComma": "all",
+  "prettier.singleQuote": true,
+  "prettier.semi": true,
+  "prettier.bracketSpacing": true
+}

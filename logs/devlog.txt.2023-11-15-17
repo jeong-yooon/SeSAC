@@ -1,0 +1,445 @@
+DEBUG,2023/11/15 17:08:01.488,     ,         , ... log4jdbc initializing ... 
+DEBUG,2023/11/15 17:08:01.490,     ,         ,   log4jdbc.properties not found on classpath 
+DEBUG,2023/11/15 17:08:01.490,     ,         , x log4jdbc.debug.stack.prefix is not defined 
+DEBUG,2023/11/15 17:08:01.490,     ,         , x log4jdbc.sqltiming.warn.threshold is not defined 
+DEBUG,2023/11/15 17:08:01.490,     ,         , x log4jdbc.sqltiming.error.threshold is not defined 
+DEBUG,2023/11/15 17:08:01.490,     ,         , x log4jdbc.dump.booleanastruefalse is not defined (using default value false) 
+DEBUG,2023/11/15 17:08:01.490,     ,         , x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90) 
+DEBUG,2023/11/15 17:08:01.490,     ,         , x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false) 
+DEBUG,2023/11/15 17:08:01.490,     ,         , x log4jdbc.statement.warn is not defined (using default value false) 
+DEBUG,2023/11/15 17:08:01.490,     ,         , x log4jdbc.dump.sql.select is not defined (using default value true) 
+DEBUG,2023/11/15 17:08:01.490,     ,         , x log4jdbc.dump.sql.insert is not defined (using default value true) 
+DEBUG,2023/11/15 17:08:01.490,     ,         , x log4jdbc.dump.sql.update is not defined (using default value true) 
+DEBUG,2023/11/15 17:08:01.490,     ,         , x log4jdbc.dump.sql.delete is not defined (using default value true) 
+DEBUG,2023/11/15 17:08:01.490,     ,         , x log4jdbc.dump.sql.create is not defined (using default value true) 
+DEBUG,2023/11/15 17:08:01.490,     ,         , x log4jdbc.dump.sql.addsemicolon is not defined (using default value false) 
+DEBUG,2023/11/15 17:08:01.490,     ,         , x log4jdbc.auto.load.popular.drivers is not defined (using default value true) 
+DEBUG,2023/11/15 17:08:01.490,     ,         , x log4jdbc.trim.sql is not defined (using default value true) 
+DEBUG,2023/11/15 17:08:01.490,     ,         , x log4jdbc.trim.sql.extrablanklines is not defined (using default value true) 
+DEBUG,2023/11/15 17:08:01.490,     ,         , x log4jdbc.suppress.generated.keys.exception is not defined (using default value false) 
+DEBUG,2023/11/15 17:08:01.490,     ,         , x log4jdbc.drivers is not defined 
+DEBUG,2023/11/15 17:08:01.513,     ,         ,   FOUND DRIVER oracle.jdbc.OracleDriver 
+DEBUG,2023/11/15 17:08:01.513,     ,         ,   FOUND DRIVER oracle.jdbc.driver.OracleDriver 
+DEBUG,2023/11/15 17:08:01.516,     ,         , ... log4jdbc initialized! ... 
+DEBUG,2023/11/15 17:10:33.435,     ,         , ... log4jdbc initializing ... 
+DEBUG,2023/11/15 17:10:33.436,     ,         ,   log4jdbc.properties not found on classpath 
+DEBUG,2023/11/15 17:10:33.436,     ,         , x log4jdbc.debug.stack.prefix is not defined 
+DEBUG,2023/11/15 17:10:33.436,     ,         , x log4jdbc.sqltiming.warn.threshold is not defined 
+DEBUG,2023/11/15 17:10:33.436,     ,         , x log4jdbc.sqltiming.error.threshold is not defined 
+DEBUG,2023/11/15 17:10:33.436,     ,         , x log4jdbc.dump.booleanastruefalse is not defined (using default value false) 
+DEBUG,2023/11/15 17:10:33.436,     ,         , x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90) 
+DEBUG,2023/11/15 17:10:33.436,     ,         , x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false) 
+DEBUG,2023/11/15 17:10:33.436,     ,         , x log4jdbc.statement.warn is not defined (using default value false) 
+DEBUG,2023/11/15 17:10:33.436,     ,         , x log4jdbc.dump.sql.select is not defined (using default value true) 
+DEBUG,2023/11/15 17:10:33.436,     ,         , x log4jdbc.dump.sql.insert is not defined (using default value true) 
+DEBUG,2023/11/15 17:10:33.436,     ,         , x log4jdbc.dump.sql.update is not defined (using default value true) 
+DEBUG,2023/11/15 17:10:33.436,     ,         , x log4jdbc.dump.sql.delete is not defined (using default value true) 
+DEBUG,2023/11/15 17:10:33.436,     ,         , x log4jdbc.dump.sql.create is not defined (using default value true) 
+DEBUG,2023/11/15 17:10:33.436,     ,         , x log4jdbc.dump.sql.addsemicolon is not defined (using default value false) 
+DEBUG,2023/11/15 17:10:33.436,     ,         , x log4jdbc.auto.load.popular.drivers is not defined (using default value true) 
+DEBUG,2023/11/15 17:10:33.436,     ,         , x log4jdbc.trim.sql is not defined (using default value true) 
+DEBUG,2023/11/15 17:10:33.436,     ,         , x log4jdbc.trim.sql.extrablanklines is not defined (using default value true) 
+DEBUG,2023/11/15 17:10:33.436,     ,         , x log4jdbc.suppress.generated.keys.exception is not defined (using default value false) 
+DEBUG,2023/11/15 17:10:33.436,     ,         , x log4jdbc.drivers is not defined 
+DEBUG,2023/11/15 17:10:33.457,     ,         ,   FOUND DRIVER oracle.jdbc.OracleDriver 
+DEBUG,2023/11/15 17:10:33.457,     ,         ,   FOUND DRIVER oracle.jdbc.driver.OracleDriver 
+DEBUG,2023/11/15 17:10:33.459,     ,         , ... log4jdbc initialized! ... 
+DEBUG,2023/11/15 17:21:40.262,     ,         , ... log4jdbc initializing ... 
+DEBUG,2023/11/15 17:21:40.263,     ,         ,   log4jdbc.properties not found on classpath 
+DEBUG,2023/11/15 17:21:40.263,     ,         , x log4jdbc.debug.stack.prefix is not defined 
+DEBUG,2023/11/15 17:21:40.263,     ,         , x log4jdbc.sqltiming.warn.threshold is not defined 
+DEBUG,2023/11/15 17:21:40.263,     ,         , x log4jdbc.sqltiming.error.threshold is not defined 
+DEBUG,2023/11/15 17:21:40.263,     ,         , x log4jdbc.dump.booleanastruefalse is not defined (using default value false) 
+DEBUG,2023/11/15 17:21:40.263,     ,         , x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90) 
+DEBUG,2023/11/15 17:21:40.263,     ,         , x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false) 
+DEBUG,2023/11/15 17:21:40.263,     ,         , x log4jdbc.statement.warn is not defined (using default value false) 
+DEBUG,2023/11/15 17:21:40.263,     ,         , x log4jdbc.dump.sql.select is not defined (using default value true) 
+DEBUG,2023/11/15 17:21:40.263,     ,         , x log4jdbc.dump.sql.insert is not defined (using default value true) 
+DEBUG,2023/11/15 17:21:40.263,     ,         , x log4jdbc.dump.sql.update is not defined (using default value true) 
+DEBUG,2023/11/15 17:21:40.263,     ,         , x log4jdbc.dump.sql.delete is not defined (using default value true) 
+DEBUG,2023/11/15 17:21:40.263,     ,         , x log4jdbc.dump.sql.create is not defined (using default value true) 
+DEBUG,2023/11/15 17:21:40.263,     ,         , x log4jdbc.dump.sql.addsemicolon is not defined (using default value false) 
+DEBUG,2023/11/15 17:21:40.263,     ,         , x log4jdbc.auto.load.popular.drivers is not defined (using default value true) 
+DEBUG,2023/11/15 17:21:40.263,     ,         , x log4jdbc.trim.sql is not defined (using default value true) 
+DEBUG,2023/11/15 17:21:40.263,     ,         , x log4jdbc.trim.sql.extrablanklines is not defined (using default value true) 
+DEBUG,2023/11/15 17:21:40.263,     ,         , x log4jdbc.suppress.generated.keys.exception is not defined (using default value false) 
+DEBUG,2023/11/15 17:21:40.263,     ,         , x log4jdbc.drivers is not defined 
+DEBUG,2023/11/15 17:21:40.286,     ,         ,   FOUND DRIVER oracle.jdbc.OracleDriver 
+DEBUG,2023/11/15 17:21:40.286,     ,         ,   FOUND DRIVER oracle.jdbc.driver.OracleDriver 
+DEBUG,2023/11/15 17:21:40.288,     ,         , ... log4jdbc initialized! ... 
+DEBUG,2023/11/15 17:24:32.161,     ,         , ... log4jdbc initializing ... 
+DEBUG,2023/11/15 17:24:32.162,     ,         ,   log4jdbc.properties not found on classpath 
+DEBUG,2023/11/15 17:24:32.162,     ,         , x log4jdbc.debug.stack.prefix is not defined 
+DEBUG,2023/11/15 17:24:32.162,     ,         , x log4jdbc.sqltiming.warn.threshold is not defined 
+DEBUG,2023/11/15 17:24:32.162,     ,         , x log4jdbc.sqltiming.error.threshold is not defined 
+DEBUG,2023/11/15 17:24:32.162,     ,         , x log4jdbc.dump.booleanastruefalse is not defined (using default value false) 
+DEBUG,2023/11/15 17:24:32.162,     ,         , x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90) 
+DEBUG,2023/11/15 17:24:32.162,     ,         , x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false) 
+DEBUG,2023/11/15 17:24:32.162,     ,         , x log4jdbc.statement.warn is not defined (using default value false) 
+DEBUG,2023/11/15 17:24:32.162,     ,         , x log4jdbc.dump.sql.select is not defined (using default value true) 
+DEBUG,2023/11/15 17:24:32.162,     ,         , x log4jdbc.dump.sql.insert is not defined (using default value true) 
+DEBUG,2023/11/15 17:24:32.162,     ,         , x log4jdbc.dump.sql.update is not defined (using default value true) 
+DEBUG,2023/11/15 17:24:32.162,     ,         , x log4jdbc.dump.sql.delete is not defined (using default value true) 
+DEBUG,2023/11/15 17:24:32.163,     ,         , x log4jdbc.dump.sql.create is not defined (using default value true) 
+DEBUG,2023/11/15 17:24:32.163,     ,         , x log4jdbc.dump.sql.addsemicolon is not defined (using default value false) 
+DEBUG,2023/11/15 17:24:32.163,     ,         , x log4jdbc.auto.load.popular.drivers is not defined (using default value true) 
+DEBUG,2023/11/15 17:24:32.163,     ,         , x log4jdbc.trim.sql is not defined (using default value true) 
+DEBUG,2023/11/15 17:24:32.163,     ,         , x log4jdbc.trim.sql.extrablanklines is not defined (using default value true) 
+DEBUG,2023/11/15 17:24:32.163,     ,         , x log4jdbc.suppress.generated.keys.exception is not defined (using default value false) 
+DEBUG,2023/11/15 17:24:32.163,     ,         , x log4jdbc.drivers is not defined 
+DEBUG,2023/11/15 17:24:32.184,     ,         ,   FOUND DRIVER oracle.jdbc.OracleDriver 
+DEBUG,2023/11/15 17:24:32.184,     ,         ,   FOUND DRIVER oracle.jdbc.driver.OracleDriver 
+DEBUG,2023/11/15 17:24:32.186,     ,         , ... log4jdbc initialized! ... 
+DEBUG,2023/11/15 17:24:42.524,     ,         , ... log4jdbc initializing ... 
+DEBUG,2023/11/15 17:24:42.525,     ,         ,   log4jdbc.properties not found on classpath 
+DEBUG,2023/11/15 17:24:42.525,     ,         , x log4jdbc.debug.stack.prefix is not defined 
+DEBUG,2023/11/15 17:24:42.525,     ,         , x log4jdbc.sqltiming.warn.threshold is not defined 
+DEBUG,2023/11/15 17:24:42.525,     ,         , x log4jdbc.sqltiming.error.threshold is not defined 
+DEBUG,2023/11/15 17:24:42.525,     ,         , x log4jdbc.dump.booleanastruefalse is not defined (using default value false) 
+DEBUG,2023/11/15 17:24:42.525,     ,         , x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90) 
+DEBUG,2023/11/15 17:24:42.525,     ,         , x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false) 
+DEBUG,2023/11/15 17:24:42.525,     ,         , x log4jdbc.statement.warn is not defined (using default value false) 
+DEBUG,2023/11/15 17:24:42.525,     ,         , x log4jdbc.dump.sql.select is not defined (using default value true) 
+DEBUG,2023/11/15 17:24:42.525,     ,         , x log4jdbc.dump.sql.insert is not defined (using default value true) 
+DEBUG,2023/11/15 17:24:42.525,     ,         , x log4jdbc.dump.sql.update is not defined (using default value true) 
+DEBUG,2023/11/15 17:24:42.525,     ,         , x log4jdbc.dump.sql.delete is not defined (using default value true) 
+DEBUG,2023/11/15 17:24:42.525,     ,         , x log4jdbc.dump.sql.create is not defined (using default value true) 
+DEBUG,2023/11/15 17:24:42.525,     ,         , x log4jdbc.dump.sql.addsemicolon is not defined (using default value false) 
+DEBUG,2023/11/15 17:24:42.525,     ,         , x log4jdbc.auto.load.popular.drivers is not defined (using default value true) 
+DEBUG,2023/11/15 17:24:42.525,     ,         , x log4jdbc.trim.sql is not defined (using default value true) 
+DEBUG,2023/11/15 17:24:42.525,     ,         , x log4jdbc.trim.sql.extrablanklines is not defined (using default value true) 
+DEBUG,2023/11/15 17:24:42.525,     ,         , x log4jdbc.suppress.generated.keys.exception is not defined (using default value false) 
+DEBUG,2023/11/15 17:24:42.526,     ,         , x log4jdbc.drivers is not defined 
+DEBUG,2023/11/15 17:24:42.544,     ,         ,   FOUND DRIVER oracle.jdbc.OracleDriver 
+DEBUG,2023/11/15 17:24:42.544,     ,         ,   FOUND DRIVER oracle.jdbc.driver.OracleDriver 
+DEBUG,2023/11/15 17:24:42.546,     ,         , ... log4jdbc initialized! ... 
+DEBUG,2023/11/15 17:25:23.150,     ,         , ... log4jdbc initializing ... 
+DEBUG,2023/11/15 17:25:23.150,     ,         ,   log4jdbc.properties not found on classpath 
+DEBUG,2023/11/15 17:25:23.150,     ,         , x log4jdbc.debug.stack.prefix is not defined 
+DEBUG,2023/11/15 17:25:23.150,     ,         , x log4jdbc.sqltiming.warn.threshold is not defined 
+DEBUG,2023/11/15 17:25:23.150,     ,         , x log4jdbc.sqltiming.error.threshold is not defined 
+DEBUG,2023/11/15 17:25:23.151,     ,         , x log4jdbc.dump.booleanastruefalse is not defined (using default value false) 
+DEBUG,2023/11/15 17:25:23.151,     ,         , x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90) 
+DEBUG,2023/11/15 17:25:23.151,     ,         , x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false) 
+DEBUG,2023/11/15 17:25:23.151,     ,         , x log4jdbc.statement.warn is not defined (using default value false) 
+DEBUG,2023/11/15 17:25:23.151,     ,         , x log4jdbc.dump.sql.select is not defined (using default value true) 
+DEBUG,2023/11/15 17:25:23.151,     ,         , x log4jdbc.dump.sql.insert is not defined (using default value true) 
+DEBUG,2023/11/15 17:25:23.151,     ,         , x log4jdbc.dump.sql.update is not defined (using default value true) 
+DEBUG,2023/11/15 17:25:23.151,     ,         , x log4jdbc.dump.sql.delete is not defined (using default value true) 
+DEBUG,2023/11/15 17:25:23.151,     ,         , x log4jdbc.dump.sql.create is not defined (using default value true) 
+DEBUG,2023/11/15 17:25:23.151,     ,         , x log4jdbc.dump.sql.addsemicolon is not defined (using default value false) 
+DEBUG,2023/11/15 17:25:23.151,     ,         , x log4jdbc.auto.load.popular.drivers is not defined (using default value true) 
+DEBUG,2023/11/15 17:25:23.151,     ,         , x log4jdbc.trim.sql is not defined (using default value true) 
+DEBUG,2023/11/15 17:25:23.151,     ,         , x log4jdbc.trim.sql.extrablanklines is not defined (using default value true) 
+DEBUG,2023/11/15 17:25:23.151,     ,         , x log4jdbc.suppress.generated.keys.exception is not defined (using default value false) 
+DEBUG,2023/11/15 17:25:23.151,     ,         , x log4jdbc.drivers is not defined 
+DEBUG,2023/11/15 17:25:23.170,     ,         ,   FOUND DRIVER oracle.jdbc.OracleDriver 
+DEBUG,2023/11/15 17:25:23.170,     ,         ,   FOUND DRIVER oracle.jdbc.driver.OracleDriver 
+DEBUG,2023/11/15 17:25:23.172,     ,         , ... log4jdbc initialized! ... 
+DEBUG,2023/11/15 17:31:18.934,     ,         , ... log4jdbc initializing ... 
+DEBUG,2023/11/15 17:31:18.936,     ,         ,   log4jdbc.properties not found on classpath 
+DEBUG,2023/11/15 17:31:18.936,     ,         , x log4jdbc.debug.stack.prefix is not defined 
+DEBUG,2023/11/15 17:31:18.936,     ,         , x log4jdbc.sqltiming.warn.threshold is not defined 
+DEBUG,2023/11/15 17:31:18.936,     ,         , x log4jdbc.sqltiming.error.threshold is not defined 
+DEBUG,2023/11/15 17:31:18.936,     ,         , x log4jdbc.dump.booleanastruefalse is not defined (using default value false) 
+DEBUG,2023/11/15 17:31:18.936,     ,         , x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90) 
+DEBUG,2023/11/15 17:31:18.936,     ,         , x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false) 
+DEBUG,2023/11/15 17:31:18.936,     ,         , x log4jdbc.statement.warn is not defined (using default value false) 
+DEBUG,2023/11/15 17:31:18.936,     ,         , x log4jdbc.dump.sql.select is not defined (using default value true) 
+DEBUG,2023/11/15 17:31:18.936,     ,         , x log4jdbc.dump.sql.insert is not defined (using default value true) 
+DEBUG,2023/11/15 17:31:18.936,     ,         , x log4jdbc.dump.sql.update is not defined (using default value true) 
+DEBUG,2023/11/15 17:31:18.936,     ,         , x log4jdbc.dump.sql.delete is not defined (using default value true) 
+DEBUG,2023/11/15 17:31:18.936,     ,         , x log4jdbc.dump.sql.create is not defined (using default value true) 
+DEBUG,2023/11/15 17:31:18.936,     ,         , x log4jdbc.dump.sql.addsemicolon is not defined (using default value false) 
+DEBUG,2023/11/15 17:31:18.936,     ,         , x log4jdbc.auto.load.popular.drivers is not defined (using default value true) 
+DEBUG,2023/11/15 17:31:18.936,     ,         , x log4jdbc.trim.sql is not defined (using default value true) 
+DEBUG,2023/11/15 17:31:18.936,     ,         , x log4jdbc.trim.sql.extrablanklines is not defined (using default value true) 
+DEBUG,2023/11/15 17:31:18.936,     ,         , x log4jdbc.suppress.generated.keys.exception is not defined (using default value false) 
+DEBUG,2023/11/15 17:31:18.937,     ,         , x log4jdbc.drivers is not defined 
+DEBUG,2023/11/15 17:31:18.964,     ,         ,   FOUND DRIVER oracle.jdbc.OracleDriver 
+DEBUG,2023/11/15 17:31:18.964,     ,         ,   FOUND DRIVER oracle.jdbc.driver.OracleDriver 
+DEBUG,2023/11/15 17:31:18.966,     ,         , ... log4jdbc initialized! ... 
+DEBUG,2023/11/15 17:34:12.074,     ,         , ... log4jdbc initializing ... 
+DEBUG,2023/11/15 17:34:12.075,     ,         ,   log4jdbc.properties not found on classpath 
+DEBUG,2023/11/15 17:34:12.075,     ,         , x log4jdbc.debug.stack.prefix is not defined 
+DEBUG,2023/11/15 17:34:12.075,     ,         , x log4jdbc.sqltiming.warn.threshold is not defined 
+DEBUG,2023/11/15 17:34:12.075,     ,         , x log4jdbc.sqltiming.error.threshold is not defined 
+DEBUG,2023/11/15 17:34:12.075,     ,         , x log4jdbc.dump.booleanastruefalse is not defined (using default value false) 
+DEBUG,2023/11/15 17:34:12.075,     ,         , x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90) 
+DEBUG,2023/11/15 17:34:12.075,     ,         , x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false) 
+DEBUG,2023/11/15 17:34:12.075,     ,         , x log4jdbc.statement.warn is not defined (using default value false) 
+DEBUG,2023/11/15 17:34:12.075,     ,         , x log4jdbc.dump.sql.select is not defined (using default value true) 
+DEBUG,2023/11/15 17:34:12.075,     ,         , x log4jdbc.dump.sql.insert is not defined (using default value true) 
+DEBUG,2023/11/15 17:34:12.075,     ,         , x log4jdbc.dump.sql.update is not defined (using default value true) 
+DEBUG,2023/11/15 17:34:12.075,     ,         , x log4jdbc.dump.sql.delete is not defined (using default value true) 
+DEBUG,2023/11/15 17:34:12.076,     ,         , x log4jdbc.dump.sql.create is not defined (using default value true) 
+DEBUG,2023/11/15 17:34:12.076,     ,         , x log4jdbc.dump.sql.addsemicolon is not defined (using default value false) 
+DEBUG,2023/11/15 17:34:12.076,     ,         , x log4jdbc.auto.load.popular.drivers is not defined (using default value true) 
+DEBUG,2023/11/15 17:34:12.076,     ,         , x log4jdbc.trim.sql is not defined (using default value true) 
+DEBUG,2023/11/15 17:34:12.076,     ,         , x log4jdbc.trim.sql.extrablanklines is not defined (using default value true) 
+DEBUG,2023/11/15 17:34:12.076,     ,         , x log4jdbc.suppress.generated.keys.exception is not defined (using default value false) 
+DEBUG,2023/11/15 17:34:12.076,     ,         , x log4jdbc.drivers is not defined 
+DEBUG,2023/11/15 17:34:12.102,     ,         ,   FOUND DRIVER oracle.jdbc.OracleDriver 
+DEBUG,2023/11/15 17:34:12.102,     ,         ,   FOUND DRIVER oracle.jdbc.driver.OracleDriver 
+DEBUG,2023/11/15 17:34:12.104,     ,         , ... log4jdbc initialized! ... 
+DEBUG,2023/11/15 17:40:16.219,     ,         , ... log4jdbc initializing ... 
+DEBUG,2023/11/15 17:40:16.220,     ,         ,   log4jdbc.properties not found on classpath 
+DEBUG,2023/11/15 17:40:16.220,     ,         , x log4jdbc.debug.stack.prefix is not defined 
+DEBUG,2023/11/15 17:40:16.220,     ,         , x log4jdbc.sqltiming.warn.threshold is not defined 
+DEBUG,2023/11/15 17:40:16.220,     ,         , x log4jdbc.sqltiming.error.threshold is not defined 
+DEBUG,2023/11/15 17:40:16.220,     ,         , x log4jdbc.dump.booleanastruefalse is not defined (using default value false) 
+DEBUG,2023/11/15 17:40:16.220,     ,         , x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90) 
+DEBUG,2023/11/15 17:40:16.220,     ,         , x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false) 
+DEBUG,2023/11/15 17:40:16.221,     ,         , x log4jdbc.statement.warn is not defined (using default value false) 
+DEBUG,2023/11/15 17:40:16.221,     ,         , x log4jdbc.dump.sql.select is not defined (using default value true) 
+DEBUG,2023/11/15 17:40:16.221,     ,         , x log4jdbc.dump.sql.insert is not defined (using default value true) 
+DEBUG,2023/11/15 17:40:16.221,     ,         , x log4jdbc.dump.sql.update is not defined (using default value true) 
+DEBUG,2023/11/15 17:40:16.221,     ,         , x log4jdbc.dump.sql.delete is not defined (using default value true) 
+DEBUG,2023/11/15 17:40:16.221,     ,         , x log4jdbc.dump.sql.create is not defined (using default value true) 
+DEBUG,2023/11/15 17:40:16.221,     ,         , x log4jdbc.dump.sql.addsemicolon is not defined (using default value false) 
+DEBUG,2023/11/15 17:40:16.221,     ,         , x log4jdbc.auto.load.popular.drivers is not defined (using default value true) 
+DEBUG,2023/11/15 17:40:16.221,     ,         , x log4jdbc.trim.sql is not defined (using default value true) 
+DEBUG,2023/11/15 17:40:16.221,     ,         , x log4jdbc.trim.sql.extrablanklines is not defined (using default value true) 
+DEBUG,2023/11/15 17:40:16.221,     ,         , x log4jdbc.suppress.generated.keys.exception is not defined (using default value false) 
+DEBUG,2023/11/15 17:40:16.221,     ,         , x log4jdbc.drivers is not defined 
+DEBUG,2023/11/15 17:40:16.248,     ,         ,   FOUND DRIVER oracle.jdbc.OracleDriver 
+DEBUG,2023/11/15 17:40:16.248,     ,         ,   FOUND DRIVER oracle.jdbc.driver.OracleDriver 
+DEBUG,2023/11/15 17:40:16.252,     ,         , ... log4jdbc initialized! ... 
+DEBUG,2023/11/15 17:41:27.324,     ,         , ... log4jdbc initializing ... 
+DEBUG,2023/11/15 17:41:27.325,     ,         ,   log4jdbc.properties not found on classpath 
+DEBUG,2023/11/15 17:41:27.325,     ,         , x log4jdbc.debug.stack.prefix is not defined 
+DEBUG,2023/11/15 17:41:27.325,     ,         , x log4jdbc.sqltiming.warn.threshold is not defined 
+DEBUG,2023/11/15 17:41:27.325,     ,         , x log4jdbc.sqltiming.error.threshold is not defined 
+DEBUG,2023/11/15 17:41:27.325,     ,         , x log4jdbc.dump.booleanastruefalse is not defined (using default value false) 
+DEBUG,2023/11/15 17:41:27.325,     ,         , x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90) 
+DEBUG,2023/11/15 17:41:27.325,     ,         , x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false) 
+DEBUG,2023/11/15 17:41:27.325,     ,         , x log4jdbc.statement.warn is not defined (using default value false) 
+DEBUG,2023/11/15 17:41:27.325,     ,         , x log4jdbc.dump.sql.select is not defined (using default value true) 
+DEBUG,2023/11/15 17:41:27.325,     ,         , x log4jdbc.dump.sql.insert is not defined (using default value true) 
+DEBUG,2023/11/15 17:41:27.325,     ,         , x log4jdbc.dump.sql.update is not defined (using default value true) 
+DEBUG,2023/11/15 17:41:27.325,     ,         , x log4jdbc.dump.sql.delete is not defined (using default value true) 
+DEBUG,2023/11/15 17:41:27.325,     ,         , x log4jdbc.dump.sql.create is not defined (using default value true) 
+DEBUG,2023/11/15 17:41:27.325,     ,         , x log4jdbc.dump.sql.addsemicolon is not defined (using default value false) 
+DEBUG,2023/11/15 17:41:27.325,     ,         , x log4jdbc.auto.load.popular.drivers is not defined (using default value true) 
+DEBUG,2023/11/15 17:41:27.325,     ,         , x log4jdbc.trim.sql is not defined (using default value true) 
+DEBUG,2023/11/15 17:41:27.325,     ,         , x log4jdbc.trim.sql.extrablanklines is not defined (using default value true) 
+DEBUG,2023/11/15 17:41:27.325,     ,         , x log4jdbc.suppress.generated.keys.exception is not defined (using default value false) 
+DEBUG,2023/11/15 17:41:27.325,     ,         , x log4jdbc.drivers is not defined 
+DEBUG,2023/11/15 17:41:27.346,     ,         ,   FOUND DRIVER oracle.jdbc.OracleDriver 
+DEBUG,2023/11/15 17:41:27.346,     ,         ,   FOUND DRIVER oracle.jdbc.driver.OracleDriver 
+DEBUG,2023/11/15 17:41:27.348,     ,         , ... log4jdbc initialized! ... 
+DEBUG,2023/11/15 17:42:28.242,     ,         , ... log4jdbc initializing ... 
+DEBUG,2023/11/15 17:42:28.243,     ,         ,   log4jdbc.properties not found on classpath 
+DEBUG,2023/11/15 17:42:28.243,     ,         , x log4jdbc.debug.stack.prefix is not defined 
+DEBUG,2023/11/15 17:42:28.243,     ,         , x log4jdbc.sqltiming.warn.threshold is not defined 
+DEBUG,2023/11/15 17:42:28.243,     ,         , x log4jdbc.sqltiming.error.threshold is not defined 
+DEBUG,2023/11/15 17:42:28.243,     ,         , x log4jdbc.dump.booleanastruefalse is not defined (using default value false) 
+DEBUG,2023/11/15 17:42:28.243,     ,         , x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90) 
+DEBUG,2023/11/15 17:42:28.243,     ,         , x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false) 
+DEBUG,2023/11/15 17:42:28.243,     ,         , x log4jdbc.statement.warn is not defined (using default value false) 
+DEBUG,2023/11/15 17:42:28.243,     ,         , x log4jdbc.dump.sql.select is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:28.243,     ,         , x log4jdbc.dump.sql.insert is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:28.243,     ,         , x log4jdbc.dump.sql.update is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:28.243,     ,         , x log4jdbc.dump.sql.delete is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:28.243,     ,         , x log4jdbc.dump.sql.create is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:28.243,     ,         , x log4jdbc.dump.sql.addsemicolon is not defined (using default value false) 
+DEBUG,2023/11/15 17:42:28.243,     ,         , x log4jdbc.auto.load.popular.drivers is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:28.243,     ,         , x log4jdbc.trim.sql is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:28.243,     ,         , x log4jdbc.trim.sql.extrablanklines is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:28.243,     ,         , x log4jdbc.suppress.generated.keys.exception is not defined (using default value false) 
+DEBUG,2023/11/15 17:42:28.245,     ,         , x log4jdbc.drivers is not defined 
+DEBUG,2023/11/15 17:42:28.265,     ,         ,   FOUND DRIVER oracle.jdbc.OracleDriver 
+DEBUG,2023/11/15 17:42:28.265,     ,         ,   FOUND DRIVER oracle.jdbc.driver.OracleDriver 
+DEBUG,2023/11/15 17:42:28.267,     ,         , ... log4jdbc initialized! ... 
+DEBUG,2023/11/15 17:42:48.708,     ,         , ... log4jdbc initializing ... 
+DEBUG,2023/11/15 17:42:48.709,     ,         ,   log4jdbc.properties not found on classpath 
+DEBUG,2023/11/15 17:42:48.709,     ,         , x log4jdbc.debug.stack.prefix is not defined 
+DEBUG,2023/11/15 17:42:48.709,     ,         , x log4jdbc.sqltiming.warn.threshold is not defined 
+DEBUG,2023/11/15 17:42:48.709,     ,         , x log4jdbc.sqltiming.error.threshold is not defined 
+DEBUG,2023/11/15 17:42:48.709,     ,         , x log4jdbc.dump.booleanastruefalse is not defined (using default value false) 
+DEBUG,2023/11/15 17:42:48.709,     ,         , x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90) 
+DEBUG,2023/11/15 17:42:48.709,     ,         , x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false) 
+DEBUG,2023/11/15 17:42:48.709,     ,         , x log4jdbc.statement.warn is not defined (using default value false) 
+DEBUG,2023/11/15 17:42:48.709,     ,         , x log4jdbc.dump.sql.select is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:48.709,     ,         , x log4jdbc.dump.sql.insert is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:48.709,     ,         , x log4jdbc.dump.sql.update is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:48.709,     ,         , x log4jdbc.dump.sql.delete is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:48.709,     ,         , x log4jdbc.dump.sql.create is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:48.709,     ,         , x log4jdbc.dump.sql.addsemicolon is not defined (using default value false) 
+DEBUG,2023/11/15 17:42:48.709,     ,         , x log4jdbc.auto.load.popular.drivers is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:48.709,     ,         , x log4jdbc.trim.sql is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:48.709,     ,         , x log4jdbc.trim.sql.extrablanklines is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:48.709,     ,         , x log4jdbc.suppress.generated.keys.exception is not defined (using default value false) 
+DEBUG,2023/11/15 17:42:48.709,     ,         , x log4jdbc.drivers is not defined 
+DEBUG,2023/11/15 17:42:48.729,     ,         ,   FOUND DRIVER oracle.jdbc.OracleDriver 
+DEBUG,2023/11/15 17:42:48.729,     ,         ,   FOUND DRIVER oracle.jdbc.driver.OracleDriver 
+DEBUG,2023/11/15 17:42:48.731,     ,         , ... log4jdbc initialized! ... 
+DEBUG,2023/11/15 17:42:59.083,     ,         , ... log4jdbc initializing ... 
+DEBUG,2023/11/15 17:42:59.084,     ,         ,   log4jdbc.properties not found on classpath 
+DEBUG,2023/11/15 17:42:59.084,     ,         , x log4jdbc.debug.stack.prefix is not defined 
+DEBUG,2023/11/15 17:42:59.084,     ,         , x log4jdbc.sqltiming.warn.threshold is not defined 
+DEBUG,2023/11/15 17:42:59.084,     ,         , x log4jdbc.sqltiming.error.threshold is not defined 
+DEBUG,2023/11/15 17:42:59.084,     ,         , x log4jdbc.dump.booleanastruefalse is not defined (using default value false) 
+DEBUG,2023/11/15 17:42:59.085,     ,         , x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90) 
+DEBUG,2023/11/15 17:42:59.085,     ,         , x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false) 
+DEBUG,2023/11/15 17:42:59.085,     ,         , x log4jdbc.statement.warn is not defined (using default value false) 
+DEBUG,2023/11/15 17:42:59.085,     ,         , x log4jdbc.dump.sql.select is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:59.085,     ,         , x log4jdbc.dump.sql.insert is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:59.085,     ,         , x log4jdbc.dump.sql.update is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:59.085,     ,         , x log4jdbc.dump.sql.delete is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:59.085,     ,         , x log4jdbc.dump.sql.create is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:59.085,     ,         , x log4jdbc.dump.sql.addsemicolon is not defined (using default value false) 
+DEBUG,2023/11/15 17:42:59.085,     ,         , x log4jdbc.auto.load.popular.drivers is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:59.085,     ,         , x log4jdbc.trim.sql is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:59.085,     ,         , x log4jdbc.trim.sql.extrablanklines is not defined (using default value true) 
+DEBUG,2023/11/15 17:42:59.085,     ,         , x log4jdbc.suppress.generated.keys.exception is not defined (using default value false) 
+DEBUG,2023/11/15 17:42:59.085,     ,         , x log4jdbc.drivers is not defined 
+DEBUG,2023/11/15 17:42:59.105,     ,         ,   FOUND DRIVER oracle.jdbc.OracleDriver 
+DEBUG,2023/11/15 17:42:59.105,     ,         ,   FOUND DRIVER oracle.jdbc.driver.OracleDriver 
+DEBUG,2023/11/15 17:42:59.107,     ,         , ... log4jdbc initialized! ... 
+DEBUG,2023/11/15 17:43:11.205,     ,         , ... log4jdbc initializing ... 
+DEBUG,2023/11/15 17:43:11.206,     ,         ,   log4jdbc.properties not found on classpath 
+DEBUG,2023/11/15 17:43:11.208,     ,         , x log4jdbc.debug.stack.prefix is not defined 
+DEBUG,2023/11/15 17:43:11.208,     ,         , x log4jdbc.sqltiming.warn.threshold is not defined 
+DEBUG,2023/11/15 17:43:11.208,     ,         , x log4jdbc.sqltiming.error.threshold is not defined 
+DEBUG,2023/11/15 17:43:11.208,     ,         , x log4jdbc.dump.booleanastruefalse is not defined (using default value false) 
+DEBUG,2023/11/15 17:43:11.208,     ,         , x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90) 
+DEBUG,2023/11/15 17:43:11.209,     ,         , x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false) 
+DEBUG,2023/11/15 17:43:11.209,     ,         , x log4jdbc.statement.warn is not defined (using default value false) 
+DEBUG,2023/11/15 17:43:11.209,     ,         , x log4jdbc.dump.sql.select is not defined (using default value true) 
+DEBUG,2023/11/15 17:43:11.209,     ,         , x log4jdbc.dump.sql.insert is not defined (using default value true) 
+DEBUG,2023/11/15 17:43:11.209,     ,         , x log4jdbc.dump.sql.update is not defined (using default value true) 
+DEBUG,2023/11/15 17:43:11.209,     ,         , x log4jdbc.dump.sql.delete is not defined (using default value true) 
+DEBUG,2023/11/15 17:43:11.209,     ,         , x log4jdbc.dump.sql.create is not defined (using default value true) 
+DEBUG,2023/11/15 17:43:11.209,     ,         , x log4jdbc.dump.sql.addsemicolon is not defined (using default value false) 
+DEBUG,2023/11/15 17:43:11.209,     ,         , x log4jdbc.auto.load.popular.drivers is not defined (using default value true) 
+DEBUG,2023/11/15 17:43:11.209,     ,         , x log4jdbc.trim.sql is not defined (using default value true) 
+DEBUG,2023/11/15 17:43:11.209,     ,         , x log4jdbc.trim.sql.extrablanklines is not defined (using default value true) 
+DEBUG,2023/11/15 17:43:11.209,     ,         , x log4jdbc.suppress.generated.keys.exception is not defined (using default value false) 
+DEBUG,2023/11/15 17:43:11.209,     ,         , x log4jdbc.drivers is not defined 
+DEBUG,2023/11/15 17:43:11.235,     ,         ,   FOUND DRIVER oracle.jdbc.OracleDriver 
+DEBUG,2023/11/15 17:43:11.236,     ,         ,   FOUND DRIVER oracle.jdbc.driver.OracleDriver 
+DEBUG,2023/11/15 17:43:11.238,     ,         , ... log4jdbc initialized! ... 
+DEBUG,2023/11/15 17:44:52.921,     ,         , ... log4jdbc initializing ... 
+DEBUG,2023/11/15 17:44:52.922,     ,         ,   log4jdbc.properties not found on classpath 
+DEBUG,2023/11/15 17:44:52.922,     ,         , x log4jdbc.debug.stack.prefix is not defined 
+DEBUG,2023/11/15 17:44:52.922,     ,         , x log4jdbc.sqltiming.warn.threshold is not defined 
+DEBUG,2023/11/15 17:44:52.922,     ,         , x log4jdbc.sqltiming.error.threshold is not defined 
+DEBUG,2023/11/15 17:44:52.922,     ,         , x log4jdbc.dump.booleanastruefalse is not defined (using default value false) 
+DEBUG,2023/11/15 17:44:52.922,     ,         , x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90) 
+DEBUG,2023/11/15 17:44:52.922,     ,         , x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false) 
+DEBUG,2023/11/15 17:44:52.922,     ,         , x log4jdbc.statement.warn is not defined (using default value false) 
+DEBUG,2023/11/15 17:44:52.922,     ,         , x log4jdbc.dump.sql.select is not defined (using default value true) 
+DEBUG,2023/11/15 17:44:52.922,     ,         , x log4jdbc.dump.sql.insert is not defined (using default value true) 
+DEBUG,2023/11/15 17:44:52.922,     ,         , x log4jdbc.dump.sql.update is not defined (using default value true) 
+DEBUG,2023/11/15 17:44:52.922,     ,         , x log4jdbc.dump.sql.delete is not defined (using default value true) 
+DEBUG,2023/11/15 17:44:52.922,     ,         , x log4jdbc.dump.sql.create is not defined (using default value true) 
+DEBUG,2023/11/15 17:44:52.922,     ,         , x log4jdbc.dump.sql.addsemicolon is not defined (using default value false) 
+DEBUG,2023/11/15 17:44:52.922,     ,         , x log4jdbc.auto.load.popular.drivers is not defined (using default value true) 
+DEBUG,2023/11/15 17:44:52.922,     ,         , x log4jdbc.trim.sql is not defined (using default value true) 
+DEBUG,2023/11/15 17:44:52.923,     ,         , x log4jdbc.trim.sql.extrablanklines is not defined (using default value true) 
+DEBUG,2023/11/15 17:44:52.923,     ,         , x log4jdbc.suppress.generated.keys.exception is not defined (using default value false) 
+DEBUG,2023/11/15 17:44:52.923,     ,         , x log4jdbc.drivers is not defined 
+DEBUG,2023/11/15 17:44:52.948,     ,         ,   FOUND DRIVER oracle.jdbc.OracleDriver 
+DEBUG,2023/11/15 17:44:52.948,     ,         ,   FOUND DRIVER oracle.jdbc.driver.OracleDriver 
+DEBUG,2023/11/15 17:44:52.950,     ,         , ... log4jdbc initialized! ... 
+INFO ,2023/11/15 17:45:04.305,     ,         , 1. Connection opened  java.sql.DriverManager.getConnection(DriverManager.java:681) 
+DEBUG,2023/11/15 17:45:04.305,     ,         , open connections:  1 (1) 
+DEBUG,2023/11/15 17:45:04.305,     ,         , 1. Connection.new Connection returned   java.sql.DriverManager.getConnection(DriverManager.java:681) 
+DEBUG,2023/11/15 17:45:04.363,     ,         , 1. PreparedStatement.new PreparedStatement returned   article.dao.ArticleDAO.getArticleList(ArticleDAO.java:66) 
+DEBUG,2023/11/15 17:45:04.363,     ,         , 1. Connection.prepareStatement(SELECT
+    no,
+    title,
+    name,
+    regdate,
+    readcount
+FROM
+    article
+ORDER BY no DESC
+) returned net.sf.log4jdbc.PreparedStatementSpy@40a00ea9  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:66) 
+DEBUG,2023/11/15 17:45:04.364,     ,         ,  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:67)
+1. SELECT no, title, name, regdate, readcount FROM article ORDER BY no DESC 
+ 
+DEBUG,2023/11/15 17:45:04.478,     ,         ,  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:67)
+1. SELECT no, title, name, regdate, readcount FROM article ORDER BY no DESC 
+ {executed in 114 msec} 
+DEBUG,2023/11/15 17:45:04.479,     ,         , 1. ResultSet.new ResultSet returned   article.dao.ArticleDAO.getArticleList(ArticleDAO.java:67) 
+DEBUG,2023/11/15 17:45:04.480,     ,         , 1. PreparedStatement.executeQuery() returned net.sf.log4jdbc.ResultSetSpy@71df8a5  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:67) 
+DEBUG,2023/11/15 17:45:04.480,     ,         , 1. ResultSet.next() returned true  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:68) 
+DEBUG,2023/11/15 17:45:04.480,     ,         , 1. ResultSet.getLong(no) returned 2  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:70) 
+DEBUG,2023/11/15 17:45:04.481,     ,         , 1. ResultSet.getString(title) returned asf  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:71) 
+DEBUG,2023/11/15 17:45:04.481,     ,         , 1. ResultSet.getString(name) returned adsf  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:72) 
+DEBUG,2023/11/15 17:45:04.481,     ,         , 1. ResultSet.getDate(regdate) returned 2023-11-15  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:73) 
+DEBUG,2023/11/15 17:45:04.481,     ,         , 1. ResultSet.getInt(readcount) returned 0  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:74) 
+DEBUG,2023/11/15 17:45:04.481,     ,         , 1. ResultSet.next() returned false  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:68) 
+DEBUG,2023/11/15 17:45:04.481,     ,         , 1. ResultSet.close() returned   article.dao.ArticleDAO.getArticleList(ArticleDAO.java:78) 
+DEBUG,2023/11/15 17:45:04.482,     ,         , 1. PreparedStatement.close() returned   article.dao.ArticleDAO.getArticleList(ArticleDAO.java:78) 
+INFO ,2023/11/15 17:45:04.491,     ,         , 1. Connection closed  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:78) 
+DEBUG,2023/11/15 17:45:04.491,     ,         , open connections:  none 
+DEBUG,2023/11/15 17:45:04.491,     ,         , 1. Connection.close() returned   article.dao.ArticleDAO.getArticleList(ArticleDAO.java:78) 
+INFO ,2023/11/15 17:45:21.348,     ,         , 2. Connection opened  java.sql.DriverManager.getConnection(DriverManager.java:681) 
+DEBUG,2023/11/15 17:45:21.349,     ,         , open connections:  2 (1) 
+DEBUG,2023/11/15 17:45:21.349,     ,         , 2. Connection.new Connection returned   java.sql.DriverManager.getConnection(DriverManager.java:681) 
+DEBUG,2023/11/15 17:45:21.349,     ,         , 2. PreparedStatement.new PreparedStatement returned   article.dao.ArticleDAO.insertArticle(ArticleDAO.java:42) 
+DEBUG,2023/11/15 17:45:21.349,     ,         , 2. Connection.prepareStatement(insert into article(no, title, name, content, password)
+values(seq_article.nextval, ?, ?, ?, ?)
+) returned net.sf.log4jdbc.PreparedStatementSpy@5fed81a5  article.dao.ArticleDAO.insertArticle(ArticleDAO.java:42) 
+DEBUG,2023/11/15 17:45:21.351,     ,         , 2. PreparedStatement.setString(1, "안녕") returned   article.dao.ArticleDAO.insertArticle(ArticleDAO.java:43) 
+DEBUG,2023/11/15 17:45:21.351,     ,         , 2. PreparedStatement.setString(2, "정윤") returned   article.dao.ArticleDAO.insertArticle(ArticleDAO.java:44) 
+DEBUG,2023/11/15 17:45:21.351,     ,         , 2. PreparedStatement.setString(3, "ㅂㅂㄷ
+") returned   article.dao.ArticleDAO.insertArticle(ArticleDAO.java:45) 
+DEBUG,2023/11/15 17:45:21.351,     ,         , 2. PreparedStatement.setString(4, "d404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db") returned   article.dao.ArticleDAO.insertArticle(ArticleDAO.java:46) 
+DEBUG,2023/11/15 17:45:21.351,     ,         ,  article.dao.ArticleDAO.insertArticle(ArticleDAO.java:47)
+2. insert into article(no, title, name, content, password) values(seq_article.nextval, '안녕', '정윤', 
+'ㅂㅂㄷ ', 'd404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db') 
+ 
+DEBUG,2023/11/15 17:45:21.366,     ,         ,  article.dao.ArticleDAO.insertArticle(ArticleDAO.java:47)
+2. insert into article(no, title, name, content, password) values(seq_article.nextval, '안녕', '정윤', 
+'ㅂㅂㄷ ', 'd404559f602eab6fd602ac7680dacbfaadd13630335e951f097af3900e9de176b6db28512f2e000b9d04fba5133e8b1c6e8df59db3a8ab9d60be4b97cc9e81db') 
+ {executed in 14 msec} 
+DEBUG,2023/11/15 17:45:21.366,     ,         , 2. ResultSet.new ResultSet returned   article.dao.ArticleDAO.insertArticle(ArticleDAO.java:47) 
+DEBUG,2023/11/15 17:45:21.366,     ,         , 2. PreparedStatement.executeQuery() returned net.sf.log4jdbc.ResultSetSpy@b77134f  article.dao.ArticleDAO.insertArticle(ArticleDAO.java:47) 
+DEBUG,2023/11/15 17:45:21.366,     ,         , 2. PreparedStatement.close() returned   article.dao.ArticleDAO.insertArticle(ArticleDAO.java:48) 
+INFO ,2023/11/15 17:45:21.371,     ,         , 2. Connection closed  article.dao.ArticleDAO.insertArticle(ArticleDAO.java:48) 
+DEBUG,2023/11/15 17:45:21.372,     ,         , open connections:  none 
+DEBUG,2023/11/15 17:45:21.372,     ,         , 2. Connection.close() returned   article.dao.ArticleDAO.insertArticle(ArticleDAO.java:48) 
+INFO ,2023/11/15 17:45:21.540,     ,         , 3. Connection opened  java.sql.DriverManager.getConnection(DriverManager.java:681) 
+DEBUG,2023/11/15 17:45:21.540,     ,         , open connections:  3 (1) 
+DEBUG,2023/11/15 17:45:21.540,     ,         , 3. Connection.new Connection returned   java.sql.DriverManager.getConnection(DriverManager.java:681) 
+DEBUG,2023/11/15 17:45:21.541,     ,         , 3. PreparedStatement.new PreparedStatement returned   article.dao.ArticleDAO.getArticleList(ArticleDAO.java:66) 
+DEBUG,2023/11/15 17:45:21.541,     ,         , 3. Connection.prepareStatement(SELECT
+    no,
+    title,
+    name,
+    regdate,
+    readcount
+FROM
+    article
+ORDER BY no DESC
+) returned net.sf.log4jdbc.PreparedStatementSpy@45ee10f9  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:66) 
+DEBUG,2023/11/15 17:45:21.541,     ,         ,  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:67)
+3. SELECT no, title, name, regdate, readcount FROM article ORDER BY no DESC 
+ 
+DEBUG,2023/11/15 17:45:21.547,     ,         ,  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:67)
+3. SELECT no, title, name, regdate, readcount FROM article ORDER BY no DESC 
+ {executed in 6 msec} 
+DEBUG,2023/11/15 17:45:21.547,     ,         , 3. ResultSet.new ResultSet returned   article.dao.ArticleDAO.getArticleList(ArticleDAO.java:67) 
+DEBUG,2023/11/15 17:45:21.547,     ,         , 3. PreparedStatement.executeQuery() returned net.sf.log4jdbc.ResultSetSpy@6878d6c1  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:67) 
+DEBUG,2023/11/15 17:45:21.547,     ,         , 3. ResultSet.next() returned true  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:68) 
+DEBUG,2023/11/15 17:45:21.548,     ,         , 3. ResultSet.getLong(no) returned 3  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:70) 
+DEBUG,2023/11/15 17:45:21.548,     ,         , 3. ResultSet.getString(title) returned 안녕  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:71) 
+DEBUG,2023/11/15 17:45:21.548,     ,         , 3. ResultSet.getString(name) returned 정윤  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:72) 
+DEBUG,2023/11/15 17:45:21.549,     ,         , 3. ResultSet.getDate(regdate) returned 2023-11-15  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:73) 
+DEBUG,2023/11/15 17:45:21.549,     ,         , 3. ResultSet.getInt(readcount) returned 0  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:74) 
+DEBUG,2023/11/15 17:45:21.549,     ,         , 3. ResultSet.next() returned true  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:68) 
+DEBUG,2023/11/15 17:45:21.549,     ,         , 3. ResultSet.getLong(no) returned 2  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:70) 
+DEBUG,2023/11/15 17:45:21.549,     ,         , 3. ResultSet.getString(title) returned asf  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:71) 
+DEBUG,2023/11/15 17:45:21.549,     ,         , 3. ResultSet.getString(name) returned adsf  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:72) 
+DEBUG,2023/11/15 17:45:21.549,     ,         , 3. ResultSet.getDate(regdate) returned 2023-11-15  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:73) 
+DEBUG,2023/11/15 17:45:21.549,     ,         , 3. ResultSet.getInt(readcount) returned 0  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:74) 
+DEBUG,2023/11/15 17:45:21.550,     ,         , 3. ResultSet.next() returned false  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:68) 
+DEBUG,2023/11/15 17:45:21.550,     ,         , 3. ResultSet.close() returned   article.dao.ArticleDAO.getArticleList(ArticleDAO.java:78) 
+DEBUG,2023/11/15 17:45:21.550,     ,         , 3. PreparedStatement.close() returned   article.dao.ArticleDAO.getArticleList(ArticleDAO.java:78) 
+INFO ,2023/11/15 17:45:21.555,     ,         , 3. Connection closed  article.dao.ArticleDAO.getArticleList(ArticleDAO.java:78) 
+DEBUG,2023/11/15 17:45:21.555,     ,         , open connections:  none 
+DEBUG,2023/11/15 17:45:21.555,     ,         , 3. Connection.close() returned   article.dao.ArticleDAO.getArticleList(ArticleDAO.java:78) 

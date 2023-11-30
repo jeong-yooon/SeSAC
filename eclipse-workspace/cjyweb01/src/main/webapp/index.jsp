@@ -10,6 +10,7 @@
 <h1>mvc</h1>
 <a href="pilot/form">form</a><br/>
 <a href="game/ready">ready</a><br/>
+<a href="article/insert">insert</a><br/>
 <%-- <h1>Hello Servlet/JSP</h1>
 <%
 	out.println("Hello World");

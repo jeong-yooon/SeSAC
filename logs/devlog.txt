@@ -1,0 +1,23 @@
+DEBUG,2023/11/16 12:15:19.728,     ,         , ... log4jdbc initializing ... 
+DEBUG,2023/11/16 12:15:19.730,     ,         ,   log4jdbc.properties not found on classpath 
+DEBUG,2023/11/16 12:15:19.730,     ,         , x log4jdbc.debug.stack.prefix is not defined 
+DEBUG,2023/11/16 12:15:19.730,     ,         , x log4jdbc.sqltiming.warn.threshold is not defined 
+DEBUG,2023/11/16 12:15:19.730,     ,         , x log4jdbc.sqltiming.error.threshold is not defined 
+DEBUG,2023/11/16 12:15:19.730,     ,         , x log4jdbc.dump.booleanastruefalse is not defined (using default value false) 
+DEBUG,2023/11/16 12:15:19.731,     ,         , x log4jdbc.dump.sql.maxlinelength is not defined (using default of 90) 
+DEBUG,2023/11/16 12:15:19.731,     ,         , x log4jdbc.dump.fulldebugstacktrace is not defined (using default value false) 
+DEBUG,2023/11/16 12:15:19.731,     ,         , x log4jdbc.statement.warn is not defined (using default value false) 
+DEBUG,2023/11/16 12:15:19.731,     ,         , x log4jdbc.dump.sql.select is not defined (using default value true) 
+DEBUG,2023/11/16 12:15:19.731,     ,         , x log4jdbc.dump.sql.insert is not defined (using default value true) 
+DEBUG,2023/11/16 12:15:19.731,     ,         , x log4jdbc.dump.sql.update is not defined (using default value true) 
+DEBUG,2023/11/16 12:15:19.731,     ,         , x log4jdbc.dump.sql.delete is not defined (using default value true) 
+DEBUG,2023/11/16 12:15:19.731,     ,         , x log4jdbc.dump.sql.create is not defined (using default value true) 
+DEBUG,2023/11/16 12:15:19.731,     ,         , x log4jdbc.dump.sql.addsemicolon is not defined (using default value false) 
+DEBUG,2023/11/16 12:15:19.731,     ,         , x log4jdbc.auto.load.popular.drivers is not defined (using default value true) 
+DEBUG,2023/11/16 12:15:19.731,     ,         , x log4jdbc.trim.sql is not defined (using default value true) 
+DEBUG,2023/11/16 12:15:19.731,     ,         , x log4jdbc.trim.sql.extrablanklines is not defined (using default value true) 
+DEBUG,2023/11/16 12:15:19.732,     ,         , x log4jdbc.suppress.generated.keys.exception is not defined (using default value false) 
+DEBUG,2023/11/16 12:15:19.732,     ,         , x log4jdbc.drivers is not defined 
+DEBUG,2023/11/16 12:15:19.780,     ,         ,   FOUND DRIVER oracle.jdbc.OracleDriver 
+DEBUG,2023/11/16 12:15:19.780,     ,         ,   FOUND DRIVER oracle.jdbc.driver.OracleDriver 
+DEBUG,2023/11/16 12:15:19.786,     ,         , ... log4jdbc initialized! ... 

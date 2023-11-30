@@ -1,0 +1,9 @@
+INFO ,2023/11/15 16:43:21.700,     ,         , No suitable driver found for jdbc:oracle:thin:@localhost:1521/xepdb1 
+INFO ,2023/11/15 16:43:27.576,     ,         , No suitable driver found for jdbc:oracle:thin:@localhost:1521/xepdb1 
+INFO ,2023/11/15 16:43:51.389,     ,         , No suitable driver found for jdbc:oracle:thin:@localhost:1521/xepdb1 
+INFO ,2023/11/15 16:45:12.222,     ,         , ORA-00904: "CONTENT": 부적합한 식별자
+ 
+INFO ,2023/11/15 16:46:32.040,     ,         , ORA-00904: "CONTENT": 부적합한 식별자
+ 
+INFO ,2023/11/15 16:50:08.500,     ,         , ORA-01400: NULL을 ("ACE"."ARTICLE"."REGDATE") 안에 삽입할 수 없습니다
+ 

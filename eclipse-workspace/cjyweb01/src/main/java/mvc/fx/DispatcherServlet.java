@@ -21,7 +21,8 @@ import game.controller.ResultController;
 
 @WebServlet(
    urlPatterns = {"/pilot/*",
-		   		  "/game/*"
+		   		  "/game/*",
+		   		  "/article/*"
    },
    loadOnStartup = 10)
 public class DispatcherServlet extends HttpServlet {
@@ -47,6 +48,7 @@ public class DispatcherServlet extends HttpServlet {
             }
          }
       } catch (Exception e) {
+    	  System.out.println(e.getMessage());
          e.printStackTrace();
       }
    }
@@ -75,7 +77,9 @@ public class DispatcherServlet extends HttpServlet {
       */
       
       AbstractController controller = controllerMap.get(action);
+      if (controller == null) throw new RuntimeException("controller 찾지 못함");
       ModelAndView mav = controller.handleRequestInternal(request, response);
+      if (mav == null) throw new RuntimeException("controller 찾지 못함");
       
       if (mav != null) {
          
